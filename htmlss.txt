@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width=device-width,initial- scale=1.0">
+  <!--CSS only -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<!..JS,Popper.js,and jQuery -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<title>VIRAT KOHLI</title>
+<style type="text/css">
+h1{
+   font-size:40px;
+   color:darkblue;
+  }
+h3{
+   color:darkseagreen;
+   }
+#s{
+   color:rosybrown;
+  }
+h4{
+  color:darkcyan;
+  font-style:oblique;
+  }
+#t
+  {
+   color:mediumvioletred;
+   }
+ b{
+   color:mediumslateblue;
+   }
+ table,th,td{
+     border:2px solid gray;
+   }
+ th,td{
+   padding: 15px;
+   }
+  table tr:nth-child(even){
+   background-color:bisque;
+   }
+  table tr:nth-child(odd){
+   background-color:#eff;
+   }
+  table th{
+   background-color:black;
+   color:white;
+   }
+ .row{
+    color:olivedrab;
+   }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>The Run Machine</h1>
+   <p id="s">Virat kohli</p>
+   <p><b>Virat Kohli</b> is not only a player but is a whole story of inspiration within himself. At the age of 30 (as of in 2019), <i>Virat</i> has been recognized as one of the best cricketers in the world.
+He made a huge name in the field of cricket and thus, he has millions of supporters and followers worldwide.</p>
+    <img src="virat.jpg"alt="virat">
+    </br>
+   <h2>Inspirational story</h2>
+   <p>Everyone cricket-loving person knows about Virat’s success, but very few know about the struggle behind that success. One can read the <i>Virat Kohli</i> Biography to know each and every detail of his life so far. However, what’s necessary for an individual is to get inspired by Kohli’s life and practice the same for themselves.
+<b>Virat Kohli</b> is highly passionate about cricket and he always remains in the <b>limelight for his lifestyle, flamboyancy, and positive ways of approaching things.</i></p>
+   <p>Along with this, Virat has also been involved in some controversies that took place at regular intervals of time. However, despite those controversies, the Indian Cricket team captain has achieved a lot in his career so far. There are numerous records made by Virat in the game of cricket, and thus his fans have given him many nicknames like;<i> Run Machine, King Kohli, Chase Master, etc.</i></p>
+    <p>An assortment of incidents took place in the journey of Virat Kohli’s career that has inspired millions of youngsters. One such incident took place on <b>December 19th, 2006</b>.</p>
+    <p>Virat’s father, <b>Mr Prem Kohli</b> suffered from a heart stroke on 19th December and unfortunately passed away the same night. <b>Virat Kohli</b> was a young lad at that time and used to play domestic level cricket from the <b>Delhi’s Ranji team.</b>
+When this incident took place, Virat was playing a Ranji Trophy match and his team was under the jaws of defeat. The most inspiring decision taken by Virat in such a young age was to postpone his father’s burial and continue his innings to save Delhi from the defeat.</p>
+    <p>He played an amazing 90 runs knock the next day and took his team out of trouble. When media reporters asked Virat about this decision, he quoted; I wanted to play because for me not completing a cricket game is a <b>sin</b>. That was a moment that changed me as a person. The importance of cricket in my life is very high.
+Thus, this was an <b>inspirational story of Virat Kohli</b>. To read more such content, visit Crickclassics and live your passion for cricket.</p>
+     <h4><u><i>International centuries</i>
+Main article: List of international cricket centuries by Virat Kohli
+Centuries against different nations
+As of October 2019, Kohli has scored 27 Test and 43 ODI centuries which makes him the second most successful centurion in ODI cricket after <b>Sachin Tendulkar</b>.</u></h4>
+<h3><u>Awards and Honors</u></h3>
+
+<table style="width:100%>
+<tr>
+<th>Year of winning</th>
+<th>Name of Award </th>
+</tr>
+<tr>
+<td>2013</td>
+<td>Arjuna Award</td>
+</tr>
+<tr>
+<td>2017</td>
+<td> Padma Shri, India's fourth highest civilian award</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>Rajiv Gandhi Khel Ratna</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>Sir Garfield Sobers Trophy (ICC Cricketer of the Year)</td>
+</tr>
+</table>
+</br>
+</br>
+<footer>
+......
+</footer>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
